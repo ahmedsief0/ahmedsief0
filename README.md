@@ -13,9 +13,8 @@ I am a motivated engineering student at Helwan National University with a strong
 
 ## 📊 GitHub Analytics
 
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsief0&show_icons=true&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ahmedsief0)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsief0&layout=compact&theme=radical&bg_color=0D1117&text_color=c9d1d9)](https://github.com/ahmedsief0)
-
+[![Ahmed's GitHub Stats](https://github-readme-stats.shion.dev/api?username=ahmedsief0&show_icons=true&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ahmedsief0)
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedsief0&layout=compact&theme=radical&bg_color=0D1117&text_color=c9d1d9)](https://github.com/ahmedsief0)
 <br>
 
 ## 🚀 Featured Projects
