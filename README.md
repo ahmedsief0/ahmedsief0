@@ -14,8 +14,8 @@ I am a motivated engineering student at Helwan National University with a strong
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsief0&show_icons=true&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff" alt="Ahmed's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsief0&layout=compact&theme=radical&bg_color=0D1117&text_color=c9d1d9" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsief0&show_icons=true&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" alt="Ahmed's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsief0&layout=compact&theme=radical&bg_color=0D1117&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" width="49%" />
 </div>
 
 <br>
