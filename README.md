@@ -9,14 +9,14 @@ I am a motivated engineering student at Helwan National University with a strong
 
 ## 📊 GitHub Analytics
 
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsief0&show_icons=true&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ahmedsiefo)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsiefo&layout=compact&theme=radical&bg_color=0D1117&text_color=c9d1d9)](https://github.com/ahmedsiefo)
+[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsief0&show_icons=true&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ahmedsief0)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsiefo&layout=compact&theme=radical&bg_color=0D1117&text_color=c9d1d9)](https://github.com/ahmedsief0)
 
 ## 🚀 Featured Repositories
 
 <!-- قم بتغيير YOUR_REPO_NAME_HERE إلى اسم المشروع الحقيقي في حسابك -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ahmedsiefo&repo=Facebook-MissInfo-Detector&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ahmedsiefo/YOUR_REPO_NAME_HERE)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ahmedsiefo&repo=Deep-Fake-Detection-&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ahmedsiefo/YOUR_REPO_NAME_HERE)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ahmedsiefo&repo=Facebook-MissInfo-Detector&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ahmedsiefo/Facebook-MissInfo-Detector)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ahmedsiefo&repo=Deep-Fake-Detection-&theme=radical&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ahmedsiefo/Deep-Fake-Detection-)
 
 ## 🛠️ Skills & Technologies
 * **Programming Languages:** Python, C, C++, Java
