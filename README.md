@@ -1,4 +1,4 @@
-markdown_content = """# Hi there, I'm Ahmed Sief El-Eslam 👋
+# Hi there, I'm Ahmed Sief El-Eslam 👋
 ### Intelligent Systems Engineer | AI & Machine Learning Enthusiast
 
 <div align="center">
@@ -79,7 +79,3 @@ I am a motivated engineering student at Helwan National University with a strong
 </div>
 """
 
-with open("README-v3.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print("README-v3.md generated successfully.")
