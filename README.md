@@ -26,7 +26,7 @@ I am a motivated engineering student at Helwan National University with a strong
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/ahmedsief0/Deep-Fake-Detection-">
-        <img src="./images/images(2).png" width="100%" alt="DeepFake Detection">
+        <img src="./images/images (2).png" width="100%" alt="DeepFake Detection">
         <br><br>
         <b>🕵️ DeepFake Detection System</b>
       </a>
@@ -44,7 +44,7 @@ I am a motivated engineering student at Helwan National University with a strong
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/ahmedsief0/Smart-Entrance-Gate">
-        <img src="./images/download(1).png" width="100%" alt="Applicable Attendance System">
+        <img src="./images/download (1).png" width="100%" alt="Applicable Attendance System">
         <br><br>
         <b>📸 Smart-Entrance-Gate</b>
       </a>
